@@ -1,3 +1,3 @@
-#Spicetify Extension for better shuffle
+##Spicetify Extension for better shuffle
 
 Work in progress
