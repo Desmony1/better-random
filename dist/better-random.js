@@ -1,0 +1,1 @@
+var betterDrandom=(()=>{var t=async function(){for(;null==Spicetify||!Spicetify.showNotification;)await new Promise(t=>setTimeout(t,100));new Spicetify.Playbar.Button("Better Random","shuffle",()=>{Spicetify.showNotification("Hallo, es geht!")},!1)};(async()=>{await t()})()})();
